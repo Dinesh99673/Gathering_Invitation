@@ -1,0 +1,43 @@
+const pass = "i love my life";
+
+const obj = [
+    {link:"/src/assets/sam1.jpg",msg:"Kitni Pyari smile de rhi he side me sexy ladka betha he isliye"},
+    {link:"/src/assets/sam2.jpg",msg:"Gharpe jake Bhandii thoni he 🤧"},
+    {link:"/src/assets/sam3.jpg",msg:"Idli ka paste bach gya soo muu pee lga.Diyaa 🧔🏼‍♀️"},
+    {link:"/src/assets/sam4.jpg",msg:"Jugad karke acchi dress bnati he last moment pe , per didi jyada acchi dikh rhi thi 🌝"},
+    {link:"/src/assets/sam5.jpg",msg:"Kitni cute huu me,(Per ganjaa bohot fukti huu 🚬)"},
+    {link:"/src/assets/sam6.jpg",msg:"Sai ki dress he isliye jyada acchi dikh rhi he 🩵"},
+    {link:"/src/assets/sam7.jpg",msg:"2 Fool with Phool a 🌺"},
+    {link:"/src/assets/sam8.jpg",msg:"This one is my favourite 🌹"},
+    {link:"/src/assets/sam9.jpg",msg:"Background ke sath mix hogyi he tu yhape , Phoolo me Fool dikhta nhi he 💐"},
+    {link:"/src/assets/sam10.jpg",msg:"Kitna handsome dikh rha huu me 🫨"},
+    {link:"/src/assets/sam11.jpg",msg:"Gangu baii lag rhi hee tuu sexy vali 🌝"},
+    {link:"/src/assets/sam12.jpg",msg:"21 ki hogyi but harkte 2 saal ke bcche ki he 😂"},
+    {link:"/src/assets/sam13.jpg",msg:"Bhutni ke sath betha huuu 👻"},
+    {link:"/src/assets/sam14.jpg",msg:"Side me ladko ko dekh rhi he kya, chii gandii 🧐"},
+    {link:"/src/assets/sam15.jpg",msg:"Gulabi Sadi ani laali laal laal 🩷"},
+    {link:"/src/assets/sam16.jpg",msg:"Kitni gandi nazro se dekh rhi he, #Tharkii"},
+    {link:"/src/assets/sam17.jpg",msg:"Shimplya che showpiece nko , jiv adakla motyatttt 🦪🩷"},
+    {link:"/src/assets/sam18.jpg",msg:"Sammy deol, mucho vali bai #Taklii😌"},
+    {link:"/src/assets/sam19.jpg",msg:"Kitni cute thi bachpan me. Abhi Chudel ban gyi he 🧙🏻"},
+    {link:"/src/assets/sam37.jpg",msg:"Nshaa jyada honeke bad meri dost ka face kuch aisa hota he. 🚬"},
+    {link:"/src/assets/sam20.jpg",msg:"Ek chutki sindurr ki kimat tum kya jano Dinesh babu 😂"},
+    {link:"/src/assets/sam21.jpg",msg:"Heyy Maaa, Matajiii. Mera firse back lag gyaa 🤧"},
+    {link:"/src/assets/sam22.jpg",msg:"Yes yes merepass Santa 🎅🏻 nhi he. But Somyaa he🥲"},
+    {link:"/src/assets/sam23.jpg",msg:"Teri pyari pyari muchee. 😍"},
+    {link:"/src/assets/sam24.jpg",msg:"2 Bottle Vodka, Kaam mera roj ka. 🍾"},
+    {link:"/src/assets/sam25.jpg",msg:"Ganjaa chahiye mujhheeeee 🤤"},
+    {link:"/src/assets/sam26.jpg",msg:"Smiles like dayannn. 🧙🏻"},
+    {link:"/src/assets/sam27.jpg",msg:"Bas shendi lganeka kaam acchese karti he tuu"},
+    {link:"/src/assets/sam28.jpg",msg:"Abb bol kon he Bandar  🐒"},
+    {link:"/src/assets/sam29.jpg",msg:"Butterfly ko apne Wings milgye. 🦋"},
+    {link:"/src/assets/sam30.jpg",msg:"Dekh kitna sweet  dikh rha hu me. And tu dekh 🧙🏻 "},
+    {link:"/src/assets/sam31.jpg",msg:"Kitna Dimag khati hu sabka fir bhi mera dimag nhi chalta. 🤧"},
+    {link:"/src/assets/sam32.jpg",msg:"I guess WET-N-JOY me firse jana Chahiye, aur rides karni he mujhe tumhare sath 🫠"},
+    {link:"/src/assets/sam33.jpg",msg:"Isme tera ek per 🦵🏻 Gayab hogya he somyaa"},
+    {link:"/src/assets/sam34.jpg",msg:"Abb mujhe aisa lagta he jaise tere kandhe pe hath rakhke photo nikalna mera Favourite Pose he. "},
+    {link:"/src/assets/sam35.jpg",msg:"Mere bde baal acche dikh rhe the yaa abhi ke chote baal. 🧐"},
+    {link:"/src/assets/sam36.jpg",msg:"Ye photo accha aaya tha tera, but fir bhi Fuddu he tu"}
+]
+
+export {pass,obj} ;
