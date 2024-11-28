@@ -23,11 +23,11 @@ function PhotoGallery(props) {
                     return <PhotoCard imageUrl={pic.link} message={pic.msg} ind={index}  val="fade-left"/>
                 }
             })}
-            <br />
-            <div className="font-bold text-orange-500 w-full mb-9 font-serif ">
+            <div className="font-bold text-orange-500 w-full mt-[35%] font-serif ">
                     <h1 className="text-center text-3xl">Aur bhi the somyaa mere pass like vo chinese vala and all but abb vo khape he kya pta nhi mill rhe he, but yhi dekhke khush hoja</h1>
                     <br />
             </div>
+            <br />
 
         </div>
     );

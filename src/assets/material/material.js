@@ -37,7 +37,10 @@ const obj = [
     {link:"/src/assets/sam33.jpg",msg:"Isme tera ek per 🦵🏻 Gayab hogya he somyaa"},
     {link:"/src/assets/sam34.jpg",msg:"Abb mujhe aisa lagta he jaise tere kandhe pe hath rakhke photo nikalna mera Favourite Pose he. "},
     {link:"/src/assets/sam35.jpg",msg:"Mere bde baal acche dikh rhe the yaa abhi ke chote baal. 🧐"},
-    {link:"/src/assets/sam36.jpg",msg:"Ye photo accha aaya tha tera, but fir bhi Fuddu he tu"}
+    {link:"/src/assets/sam36.jpg",msg:"Ye photo accha aaya tha tera, but fir bhi Fuddu he tu"},
+    {link:"/src/assets/sam38.jpg",msg:"Dekh kitne pyaar se mar rha huu me tujhe 😌"},
+    {link:"/src/assets/sam39.jpg",msg:"Somyaa Baba ka ashirvad milgya abb aur kuch nhi chahiyee Jindgi me 🤡"}
+
 ]
 
 export {pass,obj} ;
