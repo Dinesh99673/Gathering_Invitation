@@ -16,7 +16,7 @@ function App() {
           <Routes>
             <Route path="/" element={<PasswordInterface onParticle={setParticle} />} />
             <Route path="/invetation" element={<Invitation particle={particle}/>} />
-            
+            <Route path="*" element={<PasswordInterface onParticle={setParticle} />} />            
           </Routes>
         </div>     
       </div>
