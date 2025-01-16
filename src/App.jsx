@@ -2,8 +2,8 @@ import { useState } from 'react'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import ParticlesComponent1 from './components/Particles'
 import ParticlesComponent from './components/temp';
-import PasswordInterface from './components/input';
-import PhotoGallery from './components/gallery';
+import PasswordInterface from './components/PasswordInterface';
+import Invitation from './components/Invitation';
 
 function App() {
   const [particle, setParticle] = useState(false);
@@ -15,7 +15,8 @@ function App() {
         <div className='absolute text-white text-lg w-full h-screen flex justify-center items-center'>
           <Routes>
             <Route path="/" element={<PasswordInterface onParticle={setParticle} />} />
-            <Route path="/somyaa" element={<PhotoGallery particle={particle}/>} />
+            <Route path="/invetation" element={<Invitation particle={particle}/>} />
+            
           </Routes>
         </div>     
       </div>
