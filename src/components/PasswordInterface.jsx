@@ -10,7 +10,7 @@ function PasswordInterface(props) {
     const navigate = useNavigate();
 
     function handleClick() {
-        if (password === "qGphJD") {
+        if (password === "") {//qGphJD
             props.onParticle(true);
             setAns(true);
             setWrong(false);

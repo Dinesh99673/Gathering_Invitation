@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Confetti from "react-confetti";
+import Gallery from "./Gallery";
 
 function Invitation(props) {
   const navigate = useNavigate();
@@ -35,8 +36,8 @@ function Invitation(props) {
         </p>
         <div className="mt-4 text-md sm:text-lg space-y-2">
           <p>📅 <strong>Date:</strong> 22nd January 2025</p>
-          <p>🕒 <strong>Time:</strong> To be announced</p>
-          <p>📍 <strong>Venue:</strong> Hall Number to be announced</p>
+          <p>🕒 <strong>Time:</strong> 2pm</p>
+          <p>📍 <strong>Venue:</strong> Hall no.: 305</p>
         </div>
         <p className="mt-6 text-gray-700">
           Your presence will make the occasion even more special. <br />
@@ -55,6 +56,7 @@ function Invitation(props) {
         numberOfPieces={2000}
         gravity={0.07}
       />
+      <Gallery/>
     </div>
   );
 }
