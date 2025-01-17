@@ -14,8 +14,8 @@ function App() {
         {particle && <ParticlesComponent1 id='Particles'/> }
         <div className='absolute text-white text-lg w-full h-screen flex justify-center items-center'>
           <Routes>
-            <Route path="/" element={<PasswordInterface onParticle={setParticle} />} />
-            <Route path="/invetation" element={<Invitation particle={particle}/>} />
+            <Route path="/Gathering_Invitation/" element={<PasswordInterface onParticle={setParticle} />} />
+            <Route path="/Gathering_Invitation/invetation" element={<Invitation particle={particle}/>} />
             <Route path="*" element={<PasswordInterface onParticle={setParticle} />} />            
           </Routes>
         </div>     

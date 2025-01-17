@@ -30,7 +30,7 @@ function PasswordInterface(props) {
         }
 
         if (counter === 0 && ans) {
-            navigate("/invetation"); // Redirect when counter reaches 0
+            navigate("/Gathering_Invitation/invetation"); // Redirect when counter reaches 0
         }
     }, [ans, counter, navigate]);
 
