@@ -8,9 +8,9 @@ import m9 from "../assets/m9.jpg";
 import m10 from "../assets/m10.jpg";
 import m11 from "../assets/m11.jpg";
 import m12 from "../assets/m12.jpg";
+import m13 from "../assets/m13.jpg";
+import m14 from "../assets/m14.jpg";
 
-import logo from "../assets/logo.png";
-
-const photos = [m10,m11,m12,m9,m1,m4,m5,m6,m7,m8];
+const photos = [m10,m11,m12,m9,m1,m4,m5,m6,m7,m8,m13,m14];
 
 export default photos;
