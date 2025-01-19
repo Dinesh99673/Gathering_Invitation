@@ -17,7 +17,7 @@ function Invitation(props) {
   }, []);
 
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 p-3 min-h-[90vh] w-[90%] border-cyan-800 border-x-4 border-y-4 mx-auto bg-gradient-to-b from-blue-400 to-gray-300 rounded-lg shadow-lg">
+    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 p-3 min-h-[90vh] w-[90%] border-cyan-600 border-x-4 border-y-4 mx-auto bg-gradient-to-tr from-[#A9F1DF] to-[#FFBBBB] rounded-lg shadow-lg">
       {/* Header Section */}
       <div className="col-span-full flex justify-center items-center flex-col mb-5">
         <p className="text-center text-[#800000] font-extrabold text-lg sm:text-xl">
