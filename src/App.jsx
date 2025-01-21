@@ -11,7 +11,7 @@ function App() {
   return (
     <Router>
       <div className='App min-h-full w-full'>
-        {particle && <ParticlesComponent1 id='Particles'/> }
+        {particle && <ParticlesComponent id='Particles'/> }
         <div className='absolute text-white text-lg w-full h-screen flex justify-center items-center'>
           <Routes>
             <Route path="/Gathering_Invitation/" element={<PasswordInterface onParticle={setParticle} />} />
